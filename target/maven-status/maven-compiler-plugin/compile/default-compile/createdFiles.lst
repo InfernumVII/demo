@@ -1,0 +1,3 @@
+com\example\model\User.class
+com\example\servlet\UserServlet.class
+com\example\dao\UserDAO.class
